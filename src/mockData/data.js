@@ -27,5 +27,10 @@ export const suit = [
     name: 'Classic Fit Suit',
     image: suitImage,
     price: '6,000'
+  },
+  {
+    name: 'Shawl Lapel',
+    image: suitImage,
+    price: '5,000'
   }
 ]
