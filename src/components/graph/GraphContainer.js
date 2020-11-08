@@ -31,7 +31,7 @@ const GraphContainer = ({ graphData, graphFilter, isDateWrong }) => {
       enabled: false
     },
     series: [{
-      name: 'AAPL',
+      name: 'Suit',
       data: graphData,
       showInNavigator: false,
       tooltip: {
