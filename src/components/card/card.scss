@@ -1,0 +1,20 @@
+.card-container{
+  width: 26%;
+  background-color: #f6f6f6;
+  padding: 0 30px;
+  margin: 20px;
+  img{
+    width: 100%;
+  }
+  .card-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .title{
+      color: #0d47a1;
+    }
+    .text{
+      color: #0d47a1;
+    }
+  }
+}

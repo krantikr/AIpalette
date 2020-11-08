@@ -1,0 +1,14 @@
+.graph-container{
+  margin-top: 50px;
+  .error{
+    color: red;
+    text-align: center;
+  }
+  .filter-container{
+    padding: 0 15px 15px 75px;
+    span{
+      margin: 0 5px 0 5px;
+      font-size: 14px;
+    }
+  }
+}
